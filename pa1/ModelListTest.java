@@ -500,7 +500,7 @@ class ModelListTest {
         if (A.index() != 0 || !A.equals(B)) return 1;
       } else if (test == Empty_toString) {
         A = new List();
-        if (!A.toString().equals("")) return 1;
+        if (!A.toString().trim().equals("")) return 1;
       } else if (test == NonEmpty_toString) {
         A = new List();
         A.append(1);
@@ -508,7 +508,7 @@ class ModelListTest {
         A.deleteBack();
         A.append(7);
         A.append(1);
-        if (!A.toString().equals("5 7 1")) return 1;
+        if (!A.toString().trim().equals("5 7 1")) return 1;
       }
     } catch (Exception e) {
       if (verbose) {
@@ -578,10 +578,11 @@ class ModelListTest {
     NonEmpty_toString = test_count++;
 
     int tests_passed = 0;
+    int test_status = 0;
     if (verbose)
       System.out.println("\nList of tests passed/failed:\n");
     for (int i = 0; i < test_count; i++) {
-      int test_status = runTest(i);
+      test_status = runTest(i);
       if (verbose)
         System.out.printf("%s %s", testName(i),
             test_status == 0 ? "PASSED" : "FAILED");
@@ -590,17 +591,23 @@ class ModelListTest {
         tests_passed++;
       } else if (test_status == 255) {
         if (verbose) System.out.printf(": due to exception\n");
+        break;
       } else {
         if (verbose) System.out.printf(": in test %d\n", test_status);
       }
     }
     System.out.println();
 
-    System.out.printf("\nPassed %d tests out of %d possible\n", tests_passed, test_count);
-
     final int maxScore = 55;
 
-    final int totalPoints = (maxScore - test_count) + tests_passed;
+    int totalPoints = (maxScore - test_count) + tests_passed;
+
+    if (test_status == 255) {
+      System.out.printf("\nReceiving charity points because of an Exception\n");
+      totalPoints = 5;
+    } else {
+      System.out.printf("\nPassed %d tests out of %d possible\n", tests_passed, test_count);
+    }
 
     System.out.printf("\nThis gives you a score of %d out of %d for this component of the assignment\n\n", totalPoints, maxScore);
   }
