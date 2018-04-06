@@ -33,7 +33,7 @@ echo ""
 lextestspassed=$(expr 0)
 echo "Please be warned that the following tests discard all output to stdout/stderr"
 echo "Lex tests: If nothing between '=' signs, then test is passed"
-echo "Press enter to continue (Type \"v + enter\" for more details)"
+echo "Press enter to continue"
 read verbose
 for NUM in $(seq 1 $NUMTESTS); do
   rm -f outfile$NUM.txt
@@ -60,7 +60,7 @@ echo ""
 echo ""
 echo ""
 
-echo "Press Enter To Continue with ListTest Results (Type \"v + enter\" for more details)"
+echo "Press Enter To Continue with ListTest Results"
 read verbose
 
 javac ModelListTest.java List.java
