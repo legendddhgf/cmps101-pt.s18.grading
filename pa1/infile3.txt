@@ -1,0 +1,13 @@
+====
+sometimes tokens
+may appear in tests
+so you better
+write your program
+in accordance with
+the instructions set
+out in the PDF
+=====
+seriously all you
+have to do is treat
+every line as a single string
+===
