@@ -4,8 +4,8 @@
 # (run within your pa1 directory to test your code)
 
 SRCDIR=https://raw.githubusercontent.com/legendddhgf/cmps101-pt.s18.grading/master/pa1
-EXE="pa1-make-check.sh"
-EXE="pa1-perf-check.sh"
+EXE1="pa1-make-check.sh"
+EXE2="pa1-perf-check.sh"
 SCRIPT=$(mktemp)
 
 curl $SRCDIR/$EXE1 > $EXE1
