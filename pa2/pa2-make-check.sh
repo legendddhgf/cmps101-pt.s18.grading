@@ -2,6 +2,8 @@
 
 echo ""
 echo ""
+echo "press Enter for make tests"
+read garbage
 
 make
 
