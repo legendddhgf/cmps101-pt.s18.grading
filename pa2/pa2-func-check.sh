@@ -27,18 +27,16 @@ gcc -o Lex Lex.o List.o
 lextestspassed=$(expr 0)
 echo "Please be warned that the following tests discard all output to stdout while reserving stderr for valgrind output"
 echo "Lex tests: If nothing between '=' signs, then test is passed"
-echo "Press enter to continue (Type (\"v\" + enter) for more details)"
+echo "Press enter to continue"
 read verbose
 for NUM in $(seq 1 $NUMTESTS); do
   rm -f outfile$NUM.txt
   timeout 5 valgrind --leak-check=full -v Lex infile$NUM.txt outfile$NUM.txt &> valgrind-out$NUM.txt
   diff -bBwu outfile$NUM.txt model-outfile$NUM.txt &> diff$NUM.txt >> diff$NUM.txt
-  if [ "$verbose" == "v" ]; then
-    echo "Lex Test $NUM:"
-    echo "=========="
-    cat diff$NUM.txt
-    echo "=========="
-  fi
+  echo "Lex Test $NUM:"
+  echo "=========="
+  cat diff$NUM.txt
+  echo "=========="
   if [ -e diff$NUM.txt ] && [[ ! -s diff$NUM.txt ]]; then
     let lextestspassed+=1
   fi

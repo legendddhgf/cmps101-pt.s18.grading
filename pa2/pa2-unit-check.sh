@@ -18,7 +18,7 @@ curl $SRCDIR/ModelListTest.c > ModelListTest.c
 echo ""
 echo ""
 
-echo "Press Enter To Continue with ListTest Results (type (\"v\" + enter) for more details)"
+echo "Press Enter To Continue with ListTest Results"
 read verbose
 
 echo ""
@@ -27,11 +27,7 @@ echo ""
 gcc -c -std=c99 -Wall -g ModelListTest.c List.c
 gcc -o ModelListTest ModelListTest.o List.o
 
-if [ "$verbose" = "v" ]; then
-   timeout 5 valgrind --leak-check=full -v ./ModelListTest -v > ListTest-out.txt
-else
-   timeout 5 valgrind --leak-check=full -v ./ModelListTest > ListTest-out.txt
-fi
+timeout 5 valgrind --leak-check=full -v ./ModelListTest -v > ListTest-out.txt
 
 cat ListTest-out.txt
 
