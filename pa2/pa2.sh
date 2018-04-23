@@ -5,10 +5,12 @@
 
 SRCDIR=https://raw.githubusercontent.com/legendddhgf/cmps101-pt.s18.grading/master/pa2
 
-EXE_ALL=(pa2-func-check.sh pa2-unit-check.sh pa2-make-check.sh)
-for script in EXE_ALL; do
-  curl $SRCDIR/$script > $script
-  chmod +x $script
-  ./$script
-  rm -f $script
+EXE_ALL=( pa2-func-check.sh pa2-unit-check.sh pa2-make-check.sh )
+EXE_RANGE=$((${#EXE_ALL[*]} - 1))
+echo $EXE_RANGE
+for i in $(seq 0 $EXE_RANGE); do
+  curl $SRCDIR/${EXE_ALL[i]} > ${EXE_ALL[i]}
+  chmod +x ${EXE_ALL[i]}
+  ./${EXE_ALL[i]}
+  rm -f ${EXE_ALL[i]}
 done

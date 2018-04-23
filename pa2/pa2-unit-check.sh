@@ -28,9 +28,9 @@ gcc -c -std=c99 -Wall -g ModelListTest.c List.c
 gcc -o ModelListTest ModelListTest.o List.o
 
 if [ "$verbose" = "v" ]; then
-   timeout 5 valgrind ./ModelListTest -v > ListTest-out.txt
+   timeout 5 valgrind --leak-check=full -v ./ModelListTest -v > ListTest-out.txt
 else
-   timeout 5 valgrind ./ModelListTest > ListTest-out.txt
+   timeout 5 valgrind --leak-check=full -v ./ModelListTest > ListTest-out.txt
 fi
 
 cat ListTest-out.txt
