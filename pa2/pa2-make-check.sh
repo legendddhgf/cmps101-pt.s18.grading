@@ -11,6 +11,10 @@ if [ ! -e Lex ] || [ ! -x Lex ]; then # exist and executable
    echo ""
    echo "Makefile doesn't correctly create Executable!!!"
    echo ""
+else
+   echo ""
+   echo "Makefile probably correctly creates Executable!"
+   echo ""
 fi
 
 make clean
