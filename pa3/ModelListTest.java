@@ -682,10 +682,11 @@ class ModelListTest {
     NonEmpty_toString = test_count++;
 
     int tests_passed = 0;
+    int test_status = 255;
     if (verbose)
       System.out.println("\nList of tests passed/failed:\n");
     for (int i = 0; i < test_count; i++) {
-      int test_status = runTest(i);
+      test_status = runTest(i);
       if (verbose)
         System.out.printf("%s %s", testName(i),
             test_status == 0 ? "PASSED" : "FAILED");

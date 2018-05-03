@@ -308,11 +308,12 @@ class ModelMatrixTest {
     Empty_toString = testCount++;
     NonEmpty_toString = testCount++;
 
+    int test_status = 255;
     if (verbose) {
       System.out.println("\nList of tests passed/failed:\n");
     }
     for (int i = 0; i < testCount; i++) {
-      int test_status = runTest(i);
+      test_status = runTest(i);
       if (verbose)
         System.out.printf("%s %s", testName(i),
             test_status == 0 ? "PASSED" : "FAILED");
