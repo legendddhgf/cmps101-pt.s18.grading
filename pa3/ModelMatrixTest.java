@@ -263,8 +263,10 @@ class ModelMatrixTest {
         A.changeEntry(5, 7, 2.5);
         A.changeEntry(3, 4, 2);
         A.changeEntry(1, 1, 2);
-        if (!A.toString().equals("1: (1, 2.0) (3, 3.5)\n" + "3: (4, 2.0)\n" +
-              "5: (7, 2.5)\n")) return 1;
+        if (!A.toString().replaceAll("\\s+","").equals(
+              "1: (1, 2.0) (3, 3.5)\n3: (4, 2.0)\n5: (7, 2.5)\n".replaceAll(
+                "\\s+","")
+              )) return 1;
       }
     } catch (Exception e) {
       if (verbose) {

@@ -596,7 +596,7 @@ class ModelListTest {
         if (!A.back().equals(5)) return 1;
       } else if (test == Empty_toString) {
         A = new List();
-        if (!A.toString().equals("")) return 1;
+        if (!A.toString().trim().equals("")) return 1;
       } else if (test == NonEmpty_toString) {
         A = new List();
         A.append(1);
@@ -615,7 +615,7 @@ class ModelListTest {
         A.append(obj3);
         ObjectTestClass obj4 = new ObjectTestClass(1, 1.43, "you");
         A.append(obj4);
-        if (!A.toString().equals("5,3.14,how 7,75.5,are 1,1.43,you")) return 2;
+        if (!A.toString().trim().equals("5,3.14,how 7,75.5,are 1,1.43,you")) return 2;
       }
     } catch (Exception e) {
       if (verbose) {
