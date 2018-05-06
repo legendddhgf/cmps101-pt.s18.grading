@@ -604,7 +604,7 @@ class ModelListTest {
         A.deleteBack();
         A.append(7);
         A.append(1);
-        if (!A.toString().equals("5 7 1")) return 1;
+        if (!A.toString().trim().equals("5 7 1")) return 1;
         A = new List();
         ObjectTestClass obj1 = new ObjectTestClass(1, 4.5, "hello");
         A.append(obj1);
