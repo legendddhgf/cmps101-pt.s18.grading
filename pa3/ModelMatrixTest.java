@@ -324,6 +324,7 @@ class ModelMatrixTest {
         tests_passed++;
       } else if (test_status == 255) {
         if (verbose) System.out.printf(": due to exception\n");
+        break;
       } else {
         if (verbose) System.out.printf(": in test %d\n", test_status);
       }
