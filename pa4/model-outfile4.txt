@@ -1,0 +1,30 @@
+1: 2 7 10 14
+2: 1 5 10 13
+3: 7
+4: 6 7 10 11 12
+5: 2 8 9 10
+6: 4 9 11 13
+7: 1 3 4 10 13 14
+8: 5 10 13
+9: 5 6 15
+10: 1 2 4 5 7 8 13 14
+11: 4 6 14 15
+12: 4
+13: 2 6 7 8 10 14
+14: 1 7 10 11 13
+15: 9 11
+
+The distance from 12 to 5 is 3
+A shortest 12-5 path is: 12 4 10 5
+
+The distance from 15 to 11 is 1
+A shortest 15-11 path is: 15 11
+
+The distance from 9 to 4 is 2
+A shortest 9-4 path is: 9 6 4
+
+The distance from 5 to 12 is 3
+A shortest 5-12 path is: 5 10 4 12
+
+The distance from 12 to 15 is 3
+A shortest 12-15 path is: 12 4 11 15

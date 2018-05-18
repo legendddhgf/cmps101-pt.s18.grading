@@ -1,0 +1,320 @@
+1: 4 6 9 14 15
+2: 5 6 10 15 17
+3: 4 5 6 9 11 20
+4: 1 3 6 18
+5: 2 3 6 7 14 17 18
+6: 1 2 3 4 5 7 11 14 15
+7: 5 6 9 14
+8: 9 13 16 17
+9: 1 3 7 8 12 15 17 19
+10: 2 12 17
+11: 3 6 14 19
+12: 9 10
+13: 8 18
+14: 1 5 6 7 11 17 18
+15: 1 2 6 9 16 18 19
+16: 8 15
+17: 2 5 8 9 10 14 18 19
+18: 4 5 13 14 15 17 20
+19: 9 11 15 17
+20: 3 18
+
+The distance from 4 to 19 is 3
+A shortest 4-19 path is: 4 1 9 19
+
+The distance from 9 to 7 is 1
+A shortest 9-7 path is: 9 7
+
+The distance from 19 to 6 is 2
+A shortest 19-6 path is: 19 11 6
+
+The distance from 15 to 7 is 2
+A shortest 15-7 path is: 15 6 7
+
+The distance from 6 to 12 is 3
+A shortest 6-12 path is: 6 1 9 12
+
+The distance from 2 to 5 is 1
+A shortest 2-5 path is: 2 5
+
+The distance from 18 to 16 is 2
+A shortest 18-16 path is: 18 15 16
+
+The distance from 7 to 6 is 1
+A shortest 7-6 path is: 7 6
+
+The distance from 6 to 2 is 1
+A shortest 6-2 path is: 6 2
+
+The distance from 15 to 16 is 1
+A shortest 15-16 path is: 15 16
+
+The distance from 9 to 12 is 1
+A shortest 9-12 path is: 9 12
+
+The distance from 17 to 14 is 1
+A shortest 17-14 path is: 17 14
+
+The distance from 12 to 6 is 3
+A shortest 12-6 path is: 12 9 1 6
+
+The distance from 4 to 5 is 2
+A shortest 4-5 path is: 4 3 5
+
+The distance from 15 to 8 is 2
+A shortest 15-8 path is: 15 9 8
+
+The distance from 15 to 17 is 2
+A shortest 15-17 path is: 15 2 17
+
+The distance from 14 to 7 is 1
+A shortest 14-7 path is: 14 7
+
+The distance from 10 to 13 is 3
+A shortest 10-13 path is: 10 17 8 13
+
+The distance from 16 to 8 is 1
+A shortest 16-8 path is: 16 8
+
+The distance from 3 to 14 is 2
+A shortest 3-14 path is: 3 5 14
+
+The distance from 11 to 18 is 2
+A shortest 11-18 path is: 11 14 18
+
+The distance from 2 to 17 is 1
+A shortest 2-17 path is: 2 17
+
+The distance from 1 to 2 is 2
+A shortest 1-2 path is: 1 6 2
+
+The distance from 12 to 19 is 2
+A shortest 12-19 path is: 12 9 19
+
+The distance from 10 to 11 is 3
+A shortest 10-11 path is: 10 2 6 11
+
+The distance from 13 to 17 is 2
+A shortest 13-17 path is: 13 8 17
+
+The distance from 8 to 11 is 3
+A shortest 8-11 path is: 8 9 3 11
+
+The distance from 20 to 17 is 2
+A shortest 20-17 path is: 20 18 17
+
+The distance from 15 to 11 is 2
+A shortest 15-11 path is: 15 6 11
+
+The distance from 18 to 6 is 2
+A shortest 18-6 path is: 18 4 6
+
+The distance from 11 to 9 is 2
+A shortest 11-9 path is: 11 3 9
+
+The distance from 15 to 20 is 2
+A shortest 15-20 path is: 15 18 20
+
+The distance from 13 to 6 is 3
+A shortest 13-6 path is: 13 18 4 6
+
+The distance from 16 to 3 is 3
+A shortest 16-3 path is: 16 8 9 3
+
+The distance from 20 to 7 is 3
+A shortest 20-7 path is: 20 3 5 7
+
+The distance from 14 to 6 is 1
+A shortest 14-6 path is: 14 6
+
+The distance from 13 to 19 is 3
+A shortest 13-19 path is: 13 8 9 19
+
+The distance from 2 to 17 is 1
+A shortest 2-17 path is: 2 17
+
+The distance from 14 to 16 is 3
+A shortest 14-16 path is: 14 1 15 16
+
+The distance from 10 to 5 is 2
+A shortest 10-5 path is: 10 2 5
+
+The distance from 4 to 17 is 2
+A shortest 4-17 path is: 4 18 17
+
+The distance from 1 to 12 is 2
+A shortest 1-12 path is: 1 9 12
+
+The distance from 15 to 1 is 1
+A shortest 15-1 path is: 15 1
+
+The distance from 12 to 20 is 3
+A shortest 12-20 path is: 12 9 3 20
+
+The distance from 2 to 9 is 2
+A shortest 2-9 path is: 2 15 9
+
+The distance from 11 to 2 is 2
+A shortest 11-2 path is: 11 6 2
+
+The distance from 19 to 16 is 2
+A shortest 19-16 path is: 19 15 16
+
+The distance from 6 to 9 is 2
+A shortest 6-9 path is: 6 1 9
+
+The distance from 14 to 8 is 2
+A shortest 14-8 path is: 14 17 8
+
+The distance from 14 to 2 is 2
+A shortest 14-2 path is: 14 5 2
+
+The distance from 19 to 4 is 3
+A shortest 19-4 path is: 19 9 1 4
+
+The distance from 11 to 14 is 1
+A shortest 11-14 path is: 11 14
+
+The distance from 7 to 8 is 2
+A shortest 7-8 path is: 7 9 8
+
+The distance from 14 to 15 is 2
+A shortest 14-15 path is: 14 1 15
+
+The distance from 19 to 11 is 1
+A shortest 19-11 path is: 19 11
+
+The distance from 16 to 13 is 2
+A shortest 16-13 path is: 16 8 13
+
+The distance from 4 to 19 is 3
+A shortest 4-19 path is: 4 1 9 19
+
+The distance from 16 to 19 is 2
+A shortest 16-19 path is: 16 15 19
+
+The distance from 13 to 2 is 3
+A shortest 13-2 path is: 13 8 17 2
+
+The distance from 11 to 9 is 2
+A shortest 11-9 path is: 11 3 9
+
+The distance from 16 to 13 is 2
+A shortest 16-13 path is: 16 8 13
+
+The distance from 17 to 12 is 2
+A shortest 17-12 path is: 17 9 12
+
+The distance from 9 to 6 is 2
+A shortest 9-6 path is: 9 1 6
+
+The distance from 12 to 11 is 3
+A shortest 12-11 path is: 12 9 3 11
+
+The distance from 5 to 13 is 2
+A shortest 5-13 path is: 5 18 13
+
+The distance from 18 to 11 is 2
+A shortest 18-11 path is: 18 14 11
+
+The distance from 13 to 7 is 3
+A shortest 13-7 path is: 13 8 9 7
+
+The distance from 18 to 7 is 2
+A shortest 18-7 path is: 18 5 7
+
+The distance from 19 to 8 is 2
+A shortest 19-8 path is: 19 9 8
+
+The distance from 18 to 20 is 1
+A shortest 18-20 path is: 18 20
+
+The distance from 4 to 8 is 3
+A shortest 4-8 path is: 4 1 9 8
+
+The distance from 3 to 13 is 3
+A shortest 3-13 path is: 3 4 18 13
+
+The distance from 19 to 6 is 2
+A shortest 19-6 path is: 19 11 6
+
+The distance from 11 to 16 is 3
+A shortest 11-16 path is: 11 6 15 16
+
+The distance from 18 to 3 is 2
+A shortest 18-3 path is: 18 4 3
+
+The distance from 6 to 10 is 2
+A shortest 6-10 path is: 6 2 10
+
+The distance from 3 to 5 is 1
+A shortest 3-5 path is: 3 5
+
+The distance from 1 to 12 is 2
+A shortest 1-12 path is: 1 9 12
+
+The distance from 12 to 17 is 2
+A shortest 12-17 path is: 12 9 17
+
+The distance from 9 to 10 is 2
+A shortest 9-10 path is: 9 12 10
+
+The distance from 6 to 3 is 1
+A shortest 6-3 path is: 6 3
+
+The distance from 15 to 14 is 2
+A shortest 15-14 path is: 15 1 14
+
+The distance from 13 to 5 is 2
+A shortest 13-5 path is: 13 18 5
+
+The distance from 10 to 9 is 2
+A shortest 10-9 path is: 10 12 9
+
+The distance from 7 to 11 is 2
+A shortest 7-11 path is: 7 6 11
+
+The distance from 4 to 8 is 3
+A shortest 4-8 path is: 4 1 9 8
+
+The distance from 7 to 19 is 2
+A shortest 7-19 path is: 7 9 19
+
+The distance from 16 to 16 is 0
+A shortest 16-16 path is: 16
+
+The distance from 15 to 3 is 2
+A shortest 15-3 path is: 15 6 3
+
+The distance from 19 to 9 is 1
+A shortest 19-9 path is: 19 9
+
+The distance from 7 to 20 is 3
+A shortest 7-20 path is: 7 5 3 20
+
+The distance from 19 to 10 is 2
+A shortest 19-10 path is: 19 17 10
+
+The distance from 1 to 9 is 1
+A shortest 1-9 path is: 1 9
+
+The distance from 5 to 3 is 1
+A shortest 5-3 path is: 5 3
+
+The distance from 9 to 15 is 1
+A shortest 9-15 path is: 9 15
+
+The distance from 5 to 18 is 1
+A shortest 5-18 path is: 5 18
+
+The distance from 16 to 17 is 2
+A shortest 16-17 path is: 16 8 17
+
+The distance from 1 to 13 is 3
+A shortest 1-13 path is: 1 4 18 13
+
+The distance from 12 to 9 is 1
+A shortest 12-9 path is: 12 9
+
+The distance from 6 to 10 is 2
+A shortest 6-10 path is: 6 2 10

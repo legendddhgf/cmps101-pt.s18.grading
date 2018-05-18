@@ -1,0 +1,400 @@
+1: 31 34 82
+2: 11 26
+3: 4 39 53 84 96
+4: 3 8 44 69
+5: 44 66 85
+6: 87
+7: 23
+8: 4 21 26 45 90
+9: 
+10: 34 55
+11: 2 30
+12: 39 47
+13: 16
+14: 
+15: 55 90
+16: 13 50 80
+17: 66 84
+18: 20 87
+19: 34 50
+20: 18 23 59
+21: 8 41 68 71
+22: 31 74 96
+23: 7 20 25 99
+24: 30 45 87
+25: 23 33 40 94
+26: 2 8
+27: 44
+28: 50 73
+29: 33
+30: 11 24 70 84
+31: 1 22 50 65 69
+32: 62
+33: 25 29 71
+34: 1 10 19 45 82 89
+35: 82
+36: 62 98
+37: 49 84 87
+38: 52
+39: 3 12
+40: 25
+41: 21 44
+42: 43
+43: 42 59 65 92
+44: 4 5 27 41
+45: 8 24 34 50
+46: 90
+47: 12
+48: 
+49: 37 83
+50: 16 19 28 31 45 55
+51: 73
+52: 38 64 73
+53: 3 62
+54: 
+55: 10 15 50
+56: 84 86 99
+57: 61
+58: 92
+59: 20 43
+60: 81 96
+61: 57 62
+62: 32 36 53 61 65 71
+63: 94
+64: 52 73 83 89 99
+65: 31 43 62 72 77 89 100
+66: 5 17 80
+67: 72 76
+68: 21 72
+69: 4 31 84
+70: 30
+71: 21 33 62
+72: 65 67 68
+73: 28 51 52 64 90
+74: 22 92
+75: 91
+76: 67 80
+77: 65 86
+78: 93
+79: 
+80: 16 66 76
+81: 60 90 97
+82: 1 34 35 100
+83: 49 64 92
+84: 3 17 30 37 56 69
+85: 5
+86: 56 77
+87: 6 18 24 37
+88: 
+89: 34 64 65
+90: 8 15 46 73 81 97
+91: 75
+92: 43 58 74 83
+93: 78
+94: 25 63 98
+95: 
+96: 3 22 60
+97: 81 90 98
+98: 36 94 97
+99: 23 56 64
+100: 65 82
+
+The distance from 57 to 29 is 5
+A shortest 57-29 path is: 57 61 62 71 33 29
+
+The distance from 44 to 77 is 5
+A shortest 44-77 path is: 44 4 69 31 65 77
+
+The distance from 90 to 81 is 1
+A shortest 90-81 path is: 90 81
+
+The distance from 10 to 99 is 4
+A shortest 10-99 path is: 10 34 89 64 99
+
+The distance from 34 to 20 is 5
+A shortest 34-20 path is: 34 45 24 87 18 20
+
+The distance from 18 to 33 is 4
+A shortest 18-33 path is: 18 20 23 25 33
+
+The distance from 69 to 83 is 4
+A shortest 69-83 path is: 69 84 37 49 83
+
+The distance from 22 to 43 is 3
+A shortest 22-43 path is: 22 31 65 43
+
+The distance from 88 to 76 is infinity
+No 88-76 path exists
+
+The distance from 80 to 80 is 0
+A shortest 80-80 path is: 80
+
+The distance from 82 to 85 is 7
+A shortest 82-85 path is: 82 1 31 69 4 44 5 85
+
+The distance from 85 to 41 is 3
+A shortest 85-41 path is: 85 5 44 41
+
+The distance from 12 to 77 is 6
+A shortest 12-77 path is: 12 39 3 53 62 65 77
+
+The distance from 84 to 63 is 6
+A shortest 84-63 path is: 84 56 99 23 25 94 63
+
+The distance from 82 to 34 is 1
+A shortest 82-34 path is: 82 34
+
+The distance from 4 to 57 is 5
+A shortest 4-57 path is: 4 3 53 62 61 57
+
+The distance from 70 to 19 is 5
+A shortest 70-19 path is: 70 30 24 45 34 19
+
+The distance from 12 to 24 is 5
+A shortest 12-24 path is: 12 39 3 84 30 24
+
+The distance from 55 to 25 is 6
+A shortest 55-25 path is: 55 15 90 97 98 94 25
+
+The distance from 38 to 86 is 5
+A shortest 38-86 path is: 38 52 64 99 56 86
+
+The distance from 4 to 37 is 3
+A shortest 4-37 path is: 4 3 84 37
+
+The distance from 50 to 90 is 3
+A shortest 50-90 path is: 50 28 73 90
+
+The distance from 54 to 89 is infinity
+No 54-89 path exists
+
+The distance from 75 to 36 is infinity
+No 75-36 path exists
+
+The distance from 72 to 76 is 2
+A shortest 72-76 path is: 72 67 76
+
+The distance from 88 to 65 is infinity
+No 88-65 path exists
+
+The distance from 88 to 13 is infinity
+No 88-13 path exists
+
+The distance from 26 to 32 is 5
+A shortest 26-32 path is: 26 8 21 71 62 32
+
+The distance from 77 to 5 is 6
+A shortest 77-5 path is: 77 65 31 69 4 44 5
+
+The distance from 9 to 48 is infinity
+No 9-48 path exists
+
+The distance from 31 to 51 is 4
+A shortest 31-51 path is: 31 50 28 73 51
+
+The distance from 54 to 94 is infinity
+No 54-94 path exists
+
+The distance from 93 to 84 is infinity
+No 93-84 path exists
+
+The distance from 82 to 76 is 5
+A shortest 82-76 path is: 82 100 65 72 67 76
+
+The distance from 7 to 77 is 5
+A shortest 7-77 path is: 7 23 99 56 86 77
+
+The distance from 78 to 38 is infinity
+No 78-38 path exists
+
+The distance from 18 to 30 is 3
+A shortest 18-30 path is: 18 87 24 30
+
+The distance from 23 to 79 is infinity
+No 23-79 path exists
+
+The distance from 21 to 74 is 6
+A shortest 21-74 path is: 21 8 4 3 96 22 74
+
+The distance from 69 to 94 is 6
+A shortest 69-94 path is: 69 4 8 90 97 98 94
+
+The distance from 66 to 48 is infinity
+No 66-48 path exists
+
+The distance from 89 to 81 is 4
+A shortest 89-81 path is: 89 64 73 90 81
+
+The distance from 98 to 81 is 2
+A shortest 98-81 path is: 98 97 81
+
+The distance from 97 to 43 is 5
+A shortest 97-43 path is: 97 98 36 62 65 43
+
+The distance from 97 to 85 is 6
+A shortest 97-85 path is: 97 90 8 4 44 5 85
+
+The distance from 93 to 64 is infinity
+No 93-64 path exists
+
+The distance from 12 to 81 is 5
+A shortest 12-81 path is: 12 39 3 96 60 81
+
+The distance from 91 to 98 is infinity
+No 91-98 path exists
+
+The distance from 49 to 43 is 3
+A shortest 49-43 path is: 49 83 92 43
+
+The distance from 3 to 88 is infinity
+No 3-88 path exists
+
+The distance from 29 to 86 is 6
+A shortest 29-86 path is: 29 33 25 23 99 56 86
+
+The distance from 49 to 56 is 3
+A shortest 49-56 path is: 49 37 84 56
+
+The distance from 15 to 95 is infinity
+No 15-95 path exists
+
+The distance from 62 to 92 is 3
+A shortest 62-92 path is: 62 65 43 92
+
+The distance from 35 to 7 is 7
+A shortest 35-7 path is: 35 82 34 89 64 99 23 7
+
+The distance from 30 to 72 is 5
+A shortest 30-72 path is: 30 84 69 31 65 72
+
+The distance from 70 to 41 is 6
+A shortest 70-41 path is: 70 30 24 45 8 21 41
+
+The distance from 46 to 32 is 6
+A shortest 46-32 path is: 46 90 8 21 71 62 32
+
+The distance from 83 to 22 is 3
+A shortest 83-22 path is: 83 92 74 22
+
+The distance from 86 to 96 is 4
+A shortest 86-96 path is: 86 56 84 3 96
+
+The distance from 68 to 19 is 5
+A shortest 68-19 path is: 68 21 8 45 34 19
+
+The distance from 71 to 83 is 5
+A shortest 71-83 path is: 71 62 65 43 92 83
+
+The distance from 61 to 8 is 4
+A shortest 61-8 path is: 61 62 71 21 8
+
+The distance from 76 to 45 is 4
+A shortest 76-45 path is: 76 80 16 50 45
+
+The distance from 86 to 3 is 3
+A shortest 86-3 path is: 86 56 84 3
+
+The distance from 46 to 33 is 5
+A shortest 46-33 path is: 46 90 8 21 71 33
+
+The distance from 89 to 85 is 7
+A shortest 89-85 path is: 89 34 45 8 4 44 5 85
+
+The distance from 47 to 83 is 7
+A shortest 47-83 path is: 47 12 39 3 84 37 49 83
+
+The distance from 28 to 60 is 4
+A shortest 28-60 path is: 28 73 90 81 60
+
+The distance from 99 to 67 is 5
+A shortest 99-67 path is: 99 64 89 65 72 67
+
+The distance from 93 to 45 is infinity
+No 93-45 path exists
+
+The distance from 73 to 26 is 3
+A shortest 73-26 path is: 73 90 8 26
+
+The distance from 60 to 2 is 5
+A shortest 60-2 path is: 60 81 90 8 26 2
+
+The distance from 32 to 49 is 6
+A shortest 32-49 path is: 32 62 53 3 84 37 49
+
+The distance from 74 to 43 is 2
+A shortest 74-43 path is: 74 92 43
+
+The distance from 63 to 9 is infinity
+No 63-9 path exists
+
+The distance from 73 to 40 is 5
+A shortest 73-40 path is: 73 64 99 23 25 40
+
+The distance from 11 to 18 is 4
+A shortest 11-18 path is: 11 30 24 87 18
+
+The distance from 9 to 66 is infinity
+No 9-66 path exists
+
+The distance from 9 to 18 is infinity
+No 9-18 path exists
+
+The distance from 8 to 6 is 4
+A shortest 8-6 path is: 8 45 24 87 6
+
+The distance from 41 to 99 is 6
+A shortest 41-99 path is: 41 21 8 90 73 64 99
+
+The distance from 92 to 83 is 1
+A shortest 92-83 path is: 92 83
+
+The distance from 23 to 26 is 6
+A shortest 23-26 path is: 23 25 33 71 21 8 26
+
+The distance from 59 to 46 is 7
+A shortest 59-46 path is: 59 20 23 99 64 73 90 46
+
+The distance from 42 to 59 is 2
+A shortest 42-59 path is: 42 43 59
+
+The distance from 64 to 22 is 4
+A shortest 64-22 path is: 64 83 92 74 22
+
+The distance from 96 to 98 is 4
+A shortest 96-98 path is: 96 60 81 97 98
+
+The distance from 25 to 21 is 3
+A shortest 25-21 path is: 25 33 71 21
+
+The distance from 34 to 76 is 5
+A shortest 34-76 path is: 34 19 50 16 80 76
+
+The distance from 64 to 88 is infinity
+No 64-88 path exists
+
+The distance from 12 to 84 is 3
+A shortest 12-84 path is: 12 39 3 84
+
+The distance from 28 to 88 is infinity
+No 28-88 path exists
+
+The distance from 26 to 26 is 0
+A shortest 26-26 path is: 26
+
+The distance from 90 to 34 is 3
+A shortest 90-34 path is: 90 8 45 34
+
+The distance from 72 to 15 is 5
+A shortest 72-15 path is: 72 65 31 50 55 15
+
+The distance from 22 to 82 is 3
+A shortest 22-82 path is: 22 31 1 82
+
+The distance from 11 to 98 is 6
+A shortest 11-98 path is: 11 2 26 8 90 97 98
+
+The distance from 68 to 57 is 5
+A shortest 68-57 path is: 68 21 71 62 61 57
+
+The distance from 80 to 90 is 5
+A shortest 80-90 path is: 80 16 50 28 73 90

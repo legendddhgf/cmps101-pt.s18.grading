@@ -1,0 +1,30 @@
+1: 7
+2: 3 6
+3: 2 7
+4: 10
+5: 9 10
+6: 2 7 11
+7: 1 3 6 12
+8: 13
+9: 5 13 14
+10: 4 5 15
+11: 6
+12: 7
+13: 8 9
+14: 9 15
+15: 10 14
+
+The distance from 1 to 12 is 2
+A shortest 1-12 path is: 1 7 12
+
+The distance from 1 to 15 is infinity
+No 1-15 path exists
+
+The distance from 4 to 8 is 5
+A shortest 4-8 path is: 4 10 5 9 13 8
+
+The distance from 9 to 6 is infinity
+No 9-6 path exists
+
+The distance from 15 to 8 is 4
+A shortest 15-8 path is: 15 14 9 13 8

@@ -1,0 +1,400 @@
+1: 8 9 14 16 22 23 27 29 30 38 41 42 47 50 71 72 75 76 93 97
+2: 4 8 11 21 23 25 33 37 38 55 57 61 69 72 76 85 93 94 95
+3: 8 12 14 16 20 26 27 34 40 44 46 50 51 53 54 56 61 66 71 77 79 83 88 94
+4: 2 14 15 16 17 20 25 32 42 46 52 54 55 61 70 71 82 89 96
+5: 9 10 17 18 21 23 26 34 37 42 44 47 49 60 62 72 76 79 87 93 94 99
+6: 7 10 19 27 30 33 36 37 39 43 51 64 75 78 80 81
+7: 6 8 9 12 20 26 32 34 37 41 43 47 61 66 68 74 80 82 88 92 100
+8: 1 2 3 7 10 13 26 28 30 42 43 55 59 61 64 66 68 72 73 74 76 80 83 88 92 94 97 98
+9: 1 5 7 14 17 21 22 30 38 43 46 48 49 66 67 68 75 80 98 100
+10: 5 6 8 11 12 21 24 26 35 36 37 47 49 51 54 61 70 73 74 77 83 86 88 94
+11: 2 10 22 35 37 43 52 53 61 66 68 69 83 84 89 91 99
+12: 3 7 10 18 19 21 23 25 26 32 33 34 37 42 49 52 56 63 69 70 72 93 96
+13: 8 17 21 22 25 38 43 44 52 56 58 61 64 70 73 74 87 88 95 96 97
+14: 1 3 4 9 19 21 30 33 34 36 46 49 51 55 57 60 63 68 70 76 77 84 91 92 94
+15: 4 17 20 21 36 38 42 55 64 67 68 71 75 79 82 87 90 91 93 97
+16: 1 3 4 17 24 27 34 37 40 51 52 58 59 61 63 67 74 76 78 82 86 100
+17: 4 5 9 13 15 16 21 25 28 30 34 40 56 58 63 68 71 80 81 87 90 94 95 99 100
+18: 5 12 19 23 28 30 32 33 36 40 42 46 50 51 55 56 65 67 70 85 89 90 97 98
+19: 6 12 14 18 24 30 34 38 40 43 47 51 52 54 59 60 62 69 77 84 85 93 96 100
+20: 3 4 7 15 22 24 25 27 28 29 35 39 40 42 44 46 54 56 58 66 71 97 99
+21: 2 5 9 10 12 13 14 15 17 24 27 29 38 42 51 53 58 59 63 64 67 69 71 74 77 78 81 89 92
+22: 1 9 11 13 20 40 41 62 67 75 84 86 91 92 94
+23: 1 2 5 12 18 27 44 51 58 59 62 67 73 91 100
+24: 10 16 19 20 21 25 31 47 53 56 58 63 65 66
+25: 2 4 12 13 17 20 24 26 28 34 42 44 57 58 59 61 63 68 73 86 87 89 91 94 97
+26: 3 5 7 8 10 12 25 27 34 42 43 53 60 65 66 70 80 81 83 84 94
+27: 1 3 6 16 20 21 23 26 28 38 40 44 50 57 62 72 73 81 82 86 88 90 92 93 95
+28: 8 17 18 20 25 27 36 38 54 60 63 80 93 97 100
+29: 1 20 21 33 37 39 42 44 45 46 51 55 56 60 70 73 85 87 89 91
+30: 1 6 8 9 14 17 18 19 34 35 41 44 45 47 49 51 69 70 74 83 85 89 92 95
+31: 24 32 43 44 45 48 54 57 59 62 63 64 65 68 76 96 97
+32: 4 7 12 18 31 33 34 41 49 55 56 59 63 68 70 73 78 95
+33: 2 6 12 14 18 29 32 55 56 58 59 60 61 62 74 79 81 86 88 89 92 94 96
+34: 3 5 7 12 14 16 17 19 25 26 30 32 39 51 54 55 56 59 61 66 86 97
+35: 10 11 20 30 36 43 45 56 58 67 69 71 78 95
+36: 6 10 14 15 18 28 35 37 46 47 50 51 61 71 77 78 96 97 98 99
+37: 2 5 6 7 10 11 12 16 29 36 39 40 44 45 46 48 56 68 70 76 78 83 89 98 99
+38: 1 2 9 13 15 19 21 27 28 39 49 53 58 66 71 75 79 85 86 92 94 97 99
+39: 6 20 29 34 37 38 44 56 64 68 70 71 73 82 92
+40: 3 16 17 18 19 20 22 27 37 44 51 52 54 57 58 64 70 81 91 95 96
+41: 1 7 22 30 32 43 52 53 54 57 61 82 84 85 90 91 92 99
+42: 1 4 5 8 12 15 18 20 21 25 26 29 51 56 73 75 88 95
+43: 6 7 8 9 11 13 19 26 31 35 41 46 48 51 59 70 71 80 81 84 85 87 88 89 93 94
+44: 3 5 13 20 23 25 27 29 30 31 37 39 40 46 50 63 65 71 73 84 87 88 90 91 96 98 99
+45: 29 30 31 35 37 48 54 60 62 65 66 69 77 79 81 83 84 89 94 95 97 99
+46: 3 4 9 14 18 20 29 36 37 43 44 51 59 64 65 66 67 71 81 83 96 97 100
+47: 1 5 7 10 19 24 30 36 52 57 58 65 75 81 83 94 97
+48: 9 31 37 43 45 69 70 83 87
+49: 5 9 10 12 14 30 32 38 51 55 56 57 58 60 84 87 88 90 91 99 100
+50: 1 3 18 27 36 44 53 57 68 95 96
+51: 3 6 10 14 16 18 19 21 23 29 30 34 36 40 42 43 46 49 52 53 72 88 91 95 97 99
+52: 4 11 12 13 16 19 40 41 47 51 57 62 64 67 70 71 74 80 82 83 86 89 91 97
+53: 3 11 21 24 26 38 41 50 51 55 71 75 76 83 91 94 97
+54: 3 4 10 19 20 28 31 34 40 41 45 57 58 60 69 71 76 78 79 85 89 93 100
+55: 2 4 8 14 15 18 29 32 33 34 49 53 59 64 65 70 80 86 93 98
+56: 3 12 13 17 18 20 24 29 32 33 34 35 37 39 42 49 67 79 81 87 90 91 97
+57: 2 14 25 27 31 40 41 47 49 50 52 54 61 63 71 81 86 87 88 95 100
+58: 13 16 17 20 21 23 24 25 33 35 38 40 47 49 54 60 68 69 71 78 91 98
+59: 8 16 19 21 23 25 31 32 33 34 43 46 55 64 74 78 93 99
+60: 5 14 19 26 28 29 33 45 49 54 58 61 66 90 97 100
+61: 2 3 4 7 8 10 11 13 16 25 33 34 36 41 57 60 67 75 80 89 90 91
+62: 5 19 22 23 27 31 33 45 52 68 71 81 88 91 93 94 97
+63: 12 14 16 17 21 24 25 28 31 32 44 57 65 78 87 89 92 95 99
+64: 6 8 13 15 21 31 39 40 46 52 55 59 73 83 84 95
+65: 18 24 26 31 44 45 46 47 55 63 66 68 84 86 91 94 98 100
+66: 3 7 8 9 11 20 24 26 34 38 45 46 60 65 70 71 74 75 76 92 95 96 99
+67: 9 15 16 18 21 22 23 35 46 52 56 61 71 76 77 81 85
+68: 7 8 9 11 14 15 17 25 31 32 37 39 50 58 62 65 70 78 80 85 90 96 97
+69: 2 11 12 19 21 30 35 45 48 54 58 76 78 81 88 94
+70: 4 10 12 13 14 18 26 29 30 32 37 39 40 43 48 52 55 66 68 73 80 85 87 94 98
+71: 1 3 4 15 17 20 21 35 36 38 39 43 44 46 52 53 54 57 58 62 66 67 81 91 98 99
+72: 1 2 5 8 12 27 51 85 92 100
+73: 8 10 13 23 25 27 29 32 39 42 44 64 70 75 88 92 96 100
+74: 7 8 10 13 16 21 30 33 52 59 66 84 96 97
+75: 1 6 9 15 22 38 42 47 53 61 66 73 80 94 97 99
+76: 1 2 5 8 14 16 31 37 53 54 66 67 69 78 84 98 99
+77: 3 10 14 19 21 36 45 67 79 80 87 93 97
+78: 6 16 21 32 35 36 37 54 58 59 63 68 69 76 80 83 84 91 100
+79: 3 5 15 33 38 45 54 56 77 84 86
+80: 6 7 8 9 17 26 28 43 52 55 61 68 70 75 77 78 81 84 92 96 97
+81: 6 17 21 26 27 33 40 43 45 46 47 56 57 62 67 69 71 80 88 93 96 98 99
+82: 4 7 15 16 27 39 41 52 83 87 88 94 99
+83: 3 8 10 11 26 30 37 45 46 47 48 52 53 64 78 82 84 89 99 100
+84: 11 14 19 22 26 41 43 44 45 49 64 65 74 76 78 79 80 83 89 99
+85: 2 18 19 29 30 38 41 43 54 67 68 70 72 86 93 97
+86: 10 16 22 25 27 33 34 38 52 55 57 65 79 85 92 94 98 99
+87: 5 13 15 17 25 29 43 44 48 49 56 57 63 70 77 82 93 94 95
+88: 3 7 8 10 13 27 33 42 43 44 49 51 57 62 69 73 81 82 99
+89: 4 11 18 21 25 29 30 33 37 43 45 52 54 61 63 83 84 92 98
+90: 15 17 18 27 41 44 49 56 60 61 68 98
+91: 11 14 15 22 23 25 29 40 41 44 49 51 52 53 56 58 61 62 65 71 78 97
+92: 7 8 14 21 22 27 30 33 38 39 41 63 66 72 73 80 86 89
+93: 1 2 5 12 15 19 27 28 43 54 55 59 62 77 81 85 87 96 97 99
+94: 2 3 5 8 10 14 17 22 25 26 33 38 43 45 47 53 62 65 69 70 75 82 86 87 99
+95: 2 13 17 27 30 32 35 40 42 45 50 51 57 63 64 66 87 96 98
+96: 4 12 13 19 31 33 36 40 44 46 50 66 68 73 74 80 81 93 95 98
+97: 1 8 13 15 18 20 25 28 31 34 36 38 45 46 47 51 52 53 56 60 62 68 74 75 77 80 85 91 93 98
+98: 8 9 18 36 37 44 55 58 65 70 71 76 81 86 89 90 95 96 97 99 100
+99: 5 11 17 20 36 37 38 41 44 45 49 51 59 63 66 71 75 76 81 82 83 84 86 88 93 94 98
+100: 7 9 16 17 19 23 28 46 49 54 57 60 65 72 73 78 83 98
+
+The distance from 61 to 35 is 2
+A shortest 61-35 path is: 61 10 35
+
+The distance from 19 to 69 is 1
+A shortest 19-69 path is: 19 69
+
+The distance from 51 to 98 is 2
+A shortest 51-98 path is: 51 18 98
+
+The distance from 23 to 51 is 1
+A shortest 23-51 path is: 23 51
+
+The distance from 30 to 78 is 2
+A shortest 30-78 path is: 30 6 78
+
+The distance from 16 to 52 is 1
+A shortest 16-52 path is: 16 52
+
+The distance from 81 to 38 is 2
+A shortest 81-38 path is: 81 21 38
+
+The distance from 87 to 71 is 2
+A shortest 87-71 path is: 87 15 71
+
+The distance from 96 to 16 is 2
+A shortest 96-16 path is: 96 4 16
+
+The distance from 48 to 27 is 3
+A shortest 48-27 path is: 48 9 1 27
+
+The distance from 48 to 26 is 2
+A shortest 48-26 path is: 48 43 26
+
+The distance from 77 to 37 is 2
+A shortest 77-37 path is: 77 10 37
+
+The distance from 23 to 25 is 2
+A shortest 23-25 path is: 23 2 25
+
+The distance from 36 to 91 is 2
+A shortest 36-91 path is: 36 14 91
+
+The distance from 5 to 28 is 2
+A shortest 5-28 path is: 5 17 28
+
+The distance from 71 to 45 is 2
+A shortest 71-45 path is: 71 35 45
+
+The distance from 78 to 58 is 1
+A shortest 78-58 path is: 78 58
+
+The distance from 83 to 99 is 1
+A shortest 83-99 path is: 83 99
+
+The distance from 68 to 69 is 2
+A shortest 68-69 path is: 68 11 69
+
+The distance from 60 to 21 is 2
+A shortest 60-21 path is: 60 5 21
+
+The distance from 89 to 37 is 1
+A shortest 89-37 path is: 89 37
+
+The distance from 13 to 89 is 2
+A shortest 13-89 path is: 13 21 89
+
+The distance from 8 to 90 is 2
+A shortest 8-90 path is: 8 61 90
+
+The distance from 21 to 43 is 2
+A shortest 21-43 path is: 21 9 43
+
+The distance from 32 to 44 is 2
+A shortest 32-44 path is: 32 31 44
+
+The distance from 49 to 70 is 2
+A shortest 49-70 path is: 49 10 70
+
+The distance from 86 to 94 is 1
+A shortest 86-94 path is: 86 94
+
+The distance from 86 to 29 is 2
+A shortest 86-29 path is: 86 33 29
+
+The distance from 10 to 60 is 2
+A shortest 10-60 path is: 10 5 60
+
+The distance from 64 to 66 is 2
+A shortest 64-66 path is: 64 8 66
+
+The distance from 91 to 63 is 2
+A shortest 91-63 path is: 91 14 63
+
+The distance from 75 to 75 is 0
+A shortest 75-75 path is: 75
+
+The distance from 47 to 56 is 2
+A shortest 47-56 path is: 47 24 56
+
+The distance from 67 to 40 is 2
+A shortest 67-40 path is: 67 16 40
+
+The distance from 1 to 51 is 2
+A shortest 1-51 path is: 1 14 51
+
+The distance from 57 to 52 is 1
+A shortest 57-52 path is: 57 52
+
+The distance from 44 to 88 is 1
+A shortest 44-88 path is: 44 88
+
+The distance from 82 to 70 is 2
+A shortest 82-70 path is: 82 4 70
+
+The distance from 15 to 86 is 2
+A shortest 15-86 path is: 15 38 86
+
+The distance from 29 to 23 is 2
+A shortest 29-23 path is: 29 1 23
+
+The distance from 98 to 42 is 2
+A shortest 98-42 path is: 98 8 42
+
+The distance from 94 to 79 is 2
+A shortest 94-79 path is: 94 3 79
+
+The distance from 83 to 95 is 2
+A shortest 83-95 path is: 83 30 95
+
+The distance from 59 to 48 is 2
+A shortest 59-48 path is: 59 31 48
+
+The distance from 47 to 88 is 2
+A shortest 47-88 path is: 47 7 88
+
+The distance from 46 to 1 is 2
+A shortest 46-1 path is: 46 9 1
+
+The distance from 53 to 59 is 2
+A shortest 53-59 path is: 53 21 59
+
+The distance from 95 to 46 is 2
+A shortest 95-46 path is: 95 51 46
+
+The distance from 49 to 87 is 1
+A shortest 49-87 path is: 49 87
+
+The distance from 20 to 95 is 2
+A shortest 20-95 path is: 20 27 95
+
+The distance from 99 to 54 is 2
+A shortest 99-54 path is: 99 20 54
+
+The distance from 99 to 82 is 1
+A shortest 99-82 path is: 99 82
+
+The distance from 93 to 92 is 2
+A shortest 93-92 path is: 93 27 92
+
+The distance from 92 to 65 is 2
+A shortest 92-65 path is: 92 63 65
+
+The distance from 56 to 51 is 2
+A shortest 56-51 path is: 56 3 51
+
+The distance from 97 to 98 is 1
+A shortest 97-98 path is: 97 98
+
+The distance from 55 to 39 is 2
+A shortest 55-39 path is: 55 29 39
+
+The distance from 44 to 89 is 2
+A shortest 44-89 path is: 44 25 89
+
+The distance from 36 to 40 is 2
+A shortest 36-40 path is: 36 18 40
+
+The distance from 76 to 21 is 2
+A shortest 76-21 path is: 76 2 21
+
+The distance from 62 to 69 is 2
+A shortest 62-69 path is: 62 19 69
+
+The distance from 28 to 71 is 2
+A shortest 28-71 path is: 28 17 71
+
+The distance from 90 to 10 is 2
+A shortest 90-10 path is: 90 49 10
+
+The distance from 23 to 52 is 2
+A shortest 23-52 path is: 23 12 52
+
+The distance from 38 to 100 is 2
+A shortest 38-100 path is: 38 9 100
+
+The distance from 49 to 54 is 2
+A shortest 49-54 path is: 49 10 54
+
+The distance from 11 to 89 is 1
+A shortest 11-89 path is: 11 89
+
+The distance from 15 to 17 is 1
+A shortest 15-17 path is: 15 17
+
+The distance from 83 to 83 is 0
+A shortest 83-83 path is: 83
+
+The distance from 50 to 74 is 2
+A shortest 50-74 path is: 50 96 74
+
+The distance from 76 to 86 is 2
+A shortest 76-86 path is: 76 16 86
+
+The distance from 11 to 73 is 2
+A shortest 11-73 path is: 11 10 73
+
+The distance from 55 to 97 is 2
+A shortest 55-97 path is: 55 8 97
+
+The distance from 95 to 31 is 2
+A shortest 95-31 path is: 95 32 31
+
+The distance from 41 to 1 is 1
+A shortest 41-1 path is: 41 1
+
+The distance from 83 to 8 is 1
+A shortest 83-8 path is: 83 8
+
+The distance from 4 to 84 is 2
+A shortest 4-84 path is: 4 14 84
+
+The distance from 97 to 71 is 2
+A shortest 97-71 path is: 97 1 71
+
+The distance from 28 to 66 is 2
+A shortest 28-66 path is: 28 8 66
+
+The distance from 2 to 53 is 2
+A shortest 2-53 path is: 2 11 53
+
+The distance from 24 to 21 is 1
+A shortest 24-21 path is: 24 21
+
+The distance from 28 to 92 is 2
+A shortest 28-92 path is: 28 8 92
+
+The distance from 6 to 69 is 2
+A shortest 6-69 path is: 6 19 69
+
+The distance from 1 to 79 is 2
+A shortest 1-79 path is: 1 38 79
+
+The distance from 1 to 14 is 1
+A shortest 1-14 path is: 1 14
+
+The distance from 66 to 25 is 2
+A shortest 66-25 path is: 66 20 25
+
+The distance from 97 to 12 is 2
+A shortest 97-12 path is: 97 18 12
+
+The distance from 19 to 69 is 1
+A shortest 19-69 path is: 19 69
+
+The distance from 31 to 21 is 2
+A shortest 31-21 path is: 31 24 21
+
+The distance from 37 to 62 is 2
+A shortest 37-62 path is: 37 5 62
+
+The distance from 64 to 41 is 2
+A shortest 64-41 path is: 64 52 41
+
+The distance from 17 to 62 is 2
+A shortest 17-62 path is: 17 5 62
+
+The distance from 26 to 59 is 2
+A shortest 26-59 path is: 26 8 59
+
+The distance from 11 to 51 is 2
+A shortest 11-51 path is: 11 10 51
+
+The distance from 26 to 75 is 2
+A shortest 26-75 path is: 26 42 75
+
+The distance from 57 to 29 is 2
+A shortest 57-29 path is: 57 87 29
+
+The distance from 99 to 71 is 1
+A shortest 99-71 path is: 99 71
+
+The distance from 10 to 39 is 2
+A shortest 10-39 path is: 10 6 39
+
+The distance from 55 to 65 is 1
+A shortest 55-65 path is: 55 65
+
+The distance from 81 to 64 is 2
+A shortest 81-64 path is: 81 6 64
