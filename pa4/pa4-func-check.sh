@@ -21,6 +21,10 @@ done
 
 rm -f *.o FindPath
 
+gcc -c -Wall -std=c99 -g FindPath.c Graph.c List.c
+gcc -o FindPath FindPath.o Graph.o List.o
+
+
 echo ""
 echo ""
 
