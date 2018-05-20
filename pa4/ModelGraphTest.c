@@ -310,7 +310,7 @@ int main (int argc, char **argv) {
     totalScore = 10; // charity points
     if (argc == 2) printf("Receiving charity points because your program crashes\n");
   }
-  printf("\nYou will receive %d out of %d possible points on the ListTests\n\n",
+  printf("\nYou will receive %d out of %d possible points on the GraphTests\n\n",
       totalScore, MAXSCORE);
   exit(0);
   return 0;
