@@ -9,7 +9,7 @@
 #include "List.h"
 
 #define FIRST_TEST Empty_length
-#define MAXSCORE 55
+#define MAXSCORE 10
 
 static uint8_t testsPassed;
 static volatile sig_atomic_t testStatus;
@@ -637,12 +637,12 @@ int main (int argc, char **argv) {
 
   disable_exit_handler = 1;
 
-  uint8_t totalScore = (MAXSCORE - NUM_TESTS) + testsPassed;
+  uint8_t totalScore = (MAXSCORE - NUM_TESTS / 4) + testsPassed / 4;
 
   if (argc == 2 && testStatus != 255) printf("\nYou passed %d out of %d tests\n", testsPassed,
       NUM_TESTS);
   else if (testStatus == 255) {
-    totalScore = 10; // charity points
+    totalScore = 0; // charity points
     if (argc == 2) printf("Receiving charity points because your program crashes\n");
   }
   printf("\nYou will receive %d out of %d possible points on the ListTests\n\n",
