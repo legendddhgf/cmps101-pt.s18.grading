@@ -1,10 +1,10 @@
 # cmps101-pt.s18/pa5
 
-The following is a set of performance tests to run on your Graph program. It
-takes three example input files and compares your results to our correct model
-outputs. It also includes a testing client for your List and Graph ADT's as per
-the requirements of PA5. We have made this available to you to check your work
-before making your final submission.
+The following is a set of performance tests to run on your FindComponents
+program. It takes three example input files and compares your results to our
+correct model outputs. It also includes a testing client for your List and Graph
+ADT's as per the requirements of PA5. We have made this available to you to
+check your work before making your final submission.
 
 ## Installation
 
