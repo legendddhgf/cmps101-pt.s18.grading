@@ -8,6 +8,8 @@ fi
 
 cp *.java Makefile backup   # copy all files of importance into backup
 
+rm -f Sparse *.class
+
 make
 
 if [ ! -e Sparse ] || [ ! -x Sparse ]; then # exist and executable
