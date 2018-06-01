@@ -307,6 +307,7 @@ int main (int argc, char **argv) {
       printf("\nYou passed %d out of %d tests\n", testsPassed,
           NUM_TESTS);
     }
+  }
   printf("\nYou will receive %d out of %d possible points on the GraphTest\n\n",
       totalScore, MAXSCORE);
 
