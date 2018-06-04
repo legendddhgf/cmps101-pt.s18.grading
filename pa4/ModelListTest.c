@@ -9,7 +9,7 @@
 #include "List.h"
 
 #define FIRST_TEST Empty_length
-#define MAXSCORE 10
+#define MAXSCORE 20
 
 static uint8_t testsPassed;
 static volatile sig_atomic_t testStatus;
@@ -637,7 +637,7 @@ int main (int argc, char **argv) {
 
   disable_exit_handler = 1;
 
-  uint8_t totalScore = (MAXSCORE - NUM_TESTS / 4) + testsPassed / 4;
+  uint8_t totalScore = (MAXSCORE - NUM_TESTS / 2) + testsPassed / 2;
 
   if (argc == 2 && testStatus != 255) printf("\nYou passed %d out of %d tests\n", testsPassed,
       NUM_TESTS);
